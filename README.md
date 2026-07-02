@@ -43,3 +43,7 @@
    cd P-L-
    ```
 3. Abre el archivo `index.html` en cualquier navegador web moderno. ¡Listo! No requiere de compilación ni servidores locales complejos.
+
+---
+*Desplegado en producción usando GitHub Pages: [https://stiflerglindo.github.io/P-L-/](https://stiflerglindo.github.io/P-L-/)*
+
